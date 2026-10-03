@@ -4,5 +4,6 @@
   "private": true,
   "dependencies": {
     "@waline/vercel": "latest"
-  }
+  },
+  "packageManager": "pnpm@10.34.6"
 }
